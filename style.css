@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img, video, input{
+    width: 100%;
+}
+
+#pg{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    /* display: flex;justify-content: center;align-items: center; */
+    border: 25px darkblue solid;
+}
+
+#pacman{
+    width: 100px;
+    height: 100px;
+    background: none;
+}
+
